@@ -1,0 +1,6 @@
+framework module Pods_AudiBookAppTV {
+  umbrella header "Pods-AudiBookAppTV-umbrella.h"
+
+  export *
+  module * { export * }
+}
